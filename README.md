@@ -1,38 +1,70 @@
-Element,Markdown/Description
-Title,# Hi there! I'm Mubashir ALI 👋
-Sub-Title/Motto,"### Passionate [Your Primary Role, e.g., Full-Stack Developer] and Open Source Enthusiast."
-Profile Badge,"A prominent, dynamically updated badge showing your current activity or stats (requires an external service)."
-Quick Links,A brief list of links to your most important profiles.
+# 🚀 Hi there! I'm Mubashir Ali 👋
 
-# Hi there! I'm [Your Name] 👋
+### Senior Software Engineer | Cloud Architect | Open Source Contributor
 
-### 🚀 Passionate Full-Stack Developer and Open Source Enthusiast.
+A driven and highly motivated technology leader focused on building scalable, high-performance web applications using modern cloud architectures. I thrive on solving complex problems and mentoring teams.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=dark&background=000000&hide_border=true&dates=FFFFFF)](https://git.io/streak-stats)
+---
 
-<p align="center">
-  <a href="[Your LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="[Your Portfolio URL]"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"></a>
-  <a href="mailto:[Your Email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
+## 🛠️ Expertise & Technologies
+
+I specialize in the full development lifecycle, from concept to deployment, utilizing the following stack:
+
+### Frontend & UI/UX
+<p align="left">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"/>
+</p>
+
+### Backend & Databases
+<p align="left">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+</p>
+
+### Cloud, DevOps & Tools
+<p align="left">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
 </p>
 
 ---
-## 🛠️ My Skillset & Technologies
 
-| Category | Skills |
+## 📈 GitHub Activity and Stats
+
+I am committed to consistent development and open-source contribution. Below are some snapshots of my recent activity and language usage.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=dark&hide_border=true&title_color=94a3b8&icon_color=2DD4BF&text_color=FFFFFF&bg_color=0f172a" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=dark&hide_border=true&title_color=94a3b8&icon_color=2DD4BF&text_color=FFFFFF&bg_color=0f172a" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Your-GitHub-Username]&theme=dark&hide_border=true&ring=2DD4BF&date_color=94a3b8&background=0f172a" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+I am always interested in discussing new professional opportunities, creative projects, or simply exchanging ideas.
+
+| Platform | Link |
 | :--- | :--- |
-| **Front-End** | <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> |
-| **Back-End** | <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> |
-| **DevOps & Cloud** | <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> |
-| **Tools** | <img alt="VSCode" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)][Your LinkedIn URL] |
+| **Portfolio/Website** | [![Website](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)][Your Portfolio URL] |
+| **Email** | [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:[Your Email]) |
 
----
-
-## 📈 GitHub Statistics
-
+<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+    Made with 💖 and Markdown. Happy Coding!
 </p>
-
----
