@@ -1,31 +1,100 @@
-## 🛠️ Expertise & Technologies
+<h1 align="center">Hi 👋, I'm Mubashir Ali</h1>
+<h3 align="center">🚀 DevOps Engineer | Full Stack Developer | Blockchain Enthusiast</h3>
 
-I specialize in full-stack application development and modern delivery pipelines, utilizing the following core technologies:
-
-### 🌐 Frontend Development & User Experience
-Focusing on responsive design, performance optimization, and scalable single-page applications.
-
-<p align="left">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=DevOps+Engineer;Full+Stack+Developer;Mobile+App+Developer;Blockchain+Developer;Open+Source+Contributor" />
 </p>
 
-### ⚙️ Backend & Data Services
-Building robust, secure, and scalable APIs, microservices, and handling complex data models.
+---
+
+## 🚀 About Me
+
+- 🔭 Working on **Cloud, DevOps & Web3 Projects**
+- 🌱 Learning **Kubernetes, AI & Blockchain Scaling**
+- 💬 Ask me about **DevOps, Web Development, Mobile Apps & Crypto**
+- ⚡ Fun fact: **I automate everything 😎**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+<a href="https://github.com/yourusername" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://linkedin.com/in/yourusername" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://twitter.com/yourusername" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
+</a>
 </p>
 
-### ☁️ DevOps, Cloud & CI/CD
-Managing infrastructure-as-code, automating deployments, and maintaining highly available cloud services.
+---
 
-<p align="left">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions Badge"/>
+# 💻 Tech Stack
+
+## ⚙️ DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,linux,aws,bash,nginx,terraform" />
 </p>
+
+## 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind" />
+</p>
+
+## 📱 Mobile Development
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,firebase" />
+</p>
+
+## 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,go,rust,php" />
+</p>
+
+## 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase" />
+</p>
+
+## ⛓️ Blockchain & Crypto
+<p>
+<img src="https://skillicons.dev/icons?i=solidity,ethereum" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" />
+</p>
+
+---
+
+<h3 align="center">⭐ From [Your Name](https://github.com/yourusername)</h3>
