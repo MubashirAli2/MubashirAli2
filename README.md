@@ -46,11 +46,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind" />
 </p>
 
-## 📱 Mobile Development
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,firebase" />
-</p>
-
 ## 💻 Programming Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,go,rust,php" />
