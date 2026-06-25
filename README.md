@@ -43,7 +43,7 @@
 
 ## 🌐 Web Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,react-native,nextjs,nodejs,express,tailwind" />
 </p>
 
 ## 💻 Programming Languages
@@ -74,17 +74,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-## 🔥 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" />
