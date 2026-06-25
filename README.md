@@ -43,17 +43,17 @@
 
 ## 🌐 Web Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,react-native,nextjs,nodejs,express,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,expo,nextjs,nodejs,express,tailwind" />
 </p>
 
 ## 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,go,rust,php" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,c++,go" />
 </p>
 
 ## 🗄️ Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sanity,prisma,convex,prostgressql,supabase" />
 </p>
 
 ## ⛓️ Blockchain & Crypto
@@ -66,7 +66,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MubashirAli2&show_icons=true&theme=tokyonight" height="180em"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="180em"/>
 </p>
 
